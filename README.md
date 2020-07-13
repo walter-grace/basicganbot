@@ -1,3 +1,3 @@
 # basicganbot
-GPT-2 -> Twitter
-run the python file in your terminal to run the code
+[GPT-2 -> Twitter]
+run the python file in your terminal/vscode to run the code
